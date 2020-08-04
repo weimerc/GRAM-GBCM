@@ -1,6 +1,12 @@
 # GRAM-GBCM
 
-Agent Scheduling in Opinion Dynamics: A Taxonomy and Comparison Using Generalized Models
+Models from paper:
+
+Weimer, C. W., Miller, J. O., Hill, R. R., & Hodson, D. D.,  (2019). Agent scheduling in opinion dynamics: A taxonomy and comparison using generalized models. Journal of Artificial Societies and Social Simulation, 22(4), 5
+
+DOI: 10.18564/jasss.4065
+
+URL: http://jasss.soc.surrey.ac.uk/22/4/5/5.pdf
 
 Models are written in NetLogo 6.0. You can download NetLogo for free at https://ccl.northwestern.edu/netlogo/. Documentation for each model is included in the Info tab.
 
